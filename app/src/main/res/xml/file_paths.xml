@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--
+        Matches CrashLogger.getLogDir(): getExternalFilesDir(null) + "/logs"
+        i.e. Android/data/com.hyperisland.root/files/logs/
+    -->
+    <external-files-path name="hyperisland_logs" path="logs/" />
+</paths>

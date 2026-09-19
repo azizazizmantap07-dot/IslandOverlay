@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hyper Island Root</string>
+    <string name="island_service_notification">Hyper Island is running</string>
+    <string name="permission_overlay">Overlay permission is required for the Island</string>
+    <string name="permission_notification">Notification access is required</string>
+    <string name="permission_root">Root access is recommended for full features</string>
+    <string name="status_root_granted">Root access granted</string>
+    <string name="status_root_denied">Root access denied / not available</string>
+</resources>
