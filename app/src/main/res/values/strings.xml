@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hyper Island</string>
+    <string name="island_service_notification">Hyper Island is running</string>
+    <string name="permission_overlay">Izin overlay diperlukan agar Island dapat ditampilkan</string>
+    <string name="permission_notification">Akses notifikasi diperlukan</string>
+    <string name="accessibility_service_description">Digunakan hanya untuk mendeteksi mode fullscreen agar Dynamic Island dapat disembunyikan secara otomatis. Tidak membaca konten teks dan tidak melakukan aksi atas nama Anda.</string>
+</resources>
