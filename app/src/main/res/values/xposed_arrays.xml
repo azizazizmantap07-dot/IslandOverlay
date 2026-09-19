@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+      Required LSPosed scope:
+
+        - com.android.systemui → status-bar icon hide (SystemUIIslandHook) +
+                                  fullscreen/immersive detection (FullscreenHook)
+        - com.hyperisland.root → module's own process
+    -->
+    <string-array name="xposed_scope">
+        <item>com.android.systemui</item>
+        <item>com.hyperisland.root</item>
+    </string-array>
+</resources>
