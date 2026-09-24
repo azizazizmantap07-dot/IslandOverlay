@@ -1,0 +1,20 @@
+# Local signing — never commit
+keystore.properties
+keystore/
+*.keystore
+*.jks
+*.b64
+
+# Gradle / Android
+.gradle/
+build/
+local.properties
+*.iml
+.idea/
+.cxx/
+captures/
+.externalNativeBuild/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="island_background">#E6000000</color>
+    <color name="island_accent">#FF3B82F6</color>
+    <color name="island_text">#FFFFFFFF</color>
+    <color name="island_secondary">#B3FFFFFF</color>
+</resources>
